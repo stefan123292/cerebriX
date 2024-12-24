@@ -2,6 +2,7 @@
   "name": "cryptobucks",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://screenx.fun/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.2.2",
@@ -18,7 +19,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -40,6 +42,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",
+    "gh-pages": "^6.2.0",
     "postcss": "^8.4.38",
     "tailwind-scrollbar": "^2.1.0-preview.0",
     "tailwindcss": "^3.4.3"
