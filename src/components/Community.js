@@ -6,9 +6,9 @@ import pump from "../assets/pump.png";
 
 const Community = () => {
     const links = [
-        { to: "https://x.com/ScreenX_sol", src: x, alt: "ScreenX Logo" },
-        { to: "https://x.com/ScreenX_sol", src: pump, alt: "Pump Logo" },
-        { to: "https://t.me/screenX_Sol", src: tg, alt: "Telegram Logo" },
+        { to: "https://x.com/Screenx_solana", src: x, alt: "ScreenX Logo" },
+        { to: "https://x.com/Screenx_solana", src: pump, alt: "Pump Logo" },
+        { to: "https://t.me/screenX_solana", src: tg, alt: "Telegram Logo" },
     ];
 
     return (

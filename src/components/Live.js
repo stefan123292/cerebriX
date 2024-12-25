@@ -2,7 +2,7 @@ import React from "react";
 import pump from "../assets/pump.png"
 
 const LiveOnPumpFun = () => {
-    const contractAddress = "";
+    const contractAddress = "soon";
 
     const handleCopy = () => {
         navigator.clipboard.writeText(contractAddress);
@@ -31,7 +31,7 @@ const LiveOnPumpFun = () => {
                     cursor: 'pointer',
                     marginBottom: '2rem'
                 }}
-                onClick={() => window.open("https://x.com/ScreenX_sol", "_blank")}
+                onClick={() => window.open("https://x.com/Screenx_solana", "_blank")}
             >
                 BUY $SCRX
             </button>

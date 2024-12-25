@@ -14,13 +14,13 @@ const WhitePaper = () => {
             boxShadow: '0 4px 12px rgba(0, 0, 0, 0.1)'
         }}>
             <header style={{ textAlign: 'center', marginBottom: '3rem' }}>
-                <h1 style={{ fontSize: '3rem', fontWeight: 'bold' }}>ScreenX Whitepaper</h1>
+                <h1 style={{ fontSize: '3rem', fontWeight: 'bold' }}>Cerebrix Whitepaper</h1>
                 <p style={{ fontSize: '1.2rem', color: '#555' }}>Empowering smarter trading through cutting-edge technology and community-driven innovation.</p>
             </header>
 
             <section style={{ marginBottom: '2rem' }}>
                 <h2 style={{ fontSize: '2rem', borderBottom: '2px solid #ddd', paddingBottom: '0.5rem' }}>1. Introduction</h2>
-                <p>ScreenX is a revolutionary crypto screener app designed to simplify the trading experience for both beginners and advanced investors. With real-time data, customizable filters, and actionable insights, ScreenX bridges the gap between data and decision-making in the volatile cryptocurrency market.</p>
+                <p>Cerebrix is a revolutionary crypto screener app designed to simplify the trading experience for both beginners and advanced investors. With real-time data, customizable filters, and actionable insights, ScreenX bridges the gap between data and decision-making in the volatile cryptocurrency market.</p>
             </section>
 
             <section style={{ marginBottom: '2rem' }}>
@@ -36,7 +36,7 @@ const WhitePaper = () => {
 
             <section style={{ marginBottom: '2rem' }}>
                 <h2 style={{ fontSize: '2rem', borderBottom: '2px solid #ddd', paddingBottom: '0.5rem' }}>3. $SCRX Token Utility</h2>
-                <p>The $SCRX token is the backbone of the ScreenX ecosystem. It enables users to:</p>
+                <p>The $CIX token is the backbone of the Cerebrix ecosystem. It enables users to:</p>
                 <ul style={{ paddingLeft: '1.5rem', margin: 0 }}>
                     <li>Access premium app features.</li>
                     <li>Benefit from reduced transaction fees.</li>
@@ -77,7 +77,7 @@ const WhitePaper = () => {
 
             <section>
                 <h2 style={{ fontSize: '2rem', borderBottom: '2px solid #ddd', paddingBottom: '0.5rem' }}>5. Conclusion</h2>
-                <p>ScreenX is on a mission to revolutionize cryptocurrency trading by providing an innovative, user-friendly platform with a strong community at its core. Join us as we pave the way for smarter, more effective trading strategies powered by $SCRX.</p>
+                <p>Cerebrix is on a mission to revolutionize cryptocurrency trading by providing an innovative, user-friendly platform with a strong community at its core. Join us as we pave the way for smarter, more effective trading strategies powered by $SCRX.</p>
             </section>
         </div>
     );

@@ -19,12 +19,12 @@ const Footer = () => {
         }}>
             <div style={{ fontWeight: 'bold', fontSize: '1.5rem' }}>ScreenX</div>
             <div style={{ display: 'flex', gap: '1.5rem' }}>
-                <Link to="https://t.me/screenX_Sol" style={{ textDecoration: 'none', color: '#FFD700' }}>Telegram</Link>
-                <Link to="https://x.com/ScreenX_sol" style={{ textDecoration: 'none', color: '#FFD700' }}>Twitter</Link>
-                <Link to="https://x.com/ScreenX_sol" style={{ textDecoration: 'none', color: '#FFD700' }}>Pump.fun</Link>
+                <Link to="https://t.me/screenX_solana" style={{ textDecoration: 'none', color: '#FFD700' }}>Telegram</Link>
+                <Link to="https://x.com/Screenx_solana" style={{ textDecoration: 'none', color: '#FFD700' }}>Twitter</Link>
+                <Link to="https://x.com/Screenx_solana" style={{ textDecoration: 'none', color: '#FFD700' }}>Pump.fun</Link>
             </div>
             <div style={{ fontSize: '0.9rem' }}>
-                &copy; {currentYear} ScreenX. All rights reserved.
+                &copy; {currentYear} Cerebrix. All rights reserved.
             </div>
         </footer>
     );

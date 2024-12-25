@@ -12,7 +12,7 @@ text-lg text-cyan flex items-center
      "
     >
       <img width="20%" src={logoSvg} alt="CryptoBucks" />
-      <span>ScreenX</span>
+      <span>Cerebrix</span>
     </Link>
   );
 };

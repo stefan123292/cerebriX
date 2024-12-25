@@ -21,7 +21,7 @@ const AboutScreenX = () => {
 
     return (
         <div style={{ backgroundColor: '#000', color: '#FFD700', padding: '3rem', fontFamily: 'Arial, sans-serif' }}>
-            <h1 style={{ textAlign: 'center', fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '2rem' }}>What's ScreenX About?</h1>
+            <h1 style={{ textAlign: 'center', fontSize: '2.5rem', fontWeight: 'bold', marginBottom: '2rem' }}>What's Cerebrix About?</h1>
             <div style={{ display: 'flex', justifyContent: 'center', gap: '2rem', flexWrap: 'wrap' }}>
                 {features.map((feature, index) => (
                     <div
